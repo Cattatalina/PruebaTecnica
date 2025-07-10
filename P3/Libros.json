@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Hola Mundo",
+    "autor": "Yo",
+    "fecha_publicacion": "",
+    "editorial": ""
+  },
+  {
+    "titulo": "Chao Mundo",
+    "autor": "Yo No",
+    "fecha_publicacion": "10/07/2025",
+    "editorial": "ACGP"
+  },
+  {
+    "titulo": "MiawMiaw",
+    "autor": "Gato",
+    "fecha_publicacion": "",
+    "editorial": "LosGatunos"
+  }
+]
