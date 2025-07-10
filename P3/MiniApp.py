@@ -1,3 +1,6 @@
+# Pregunta 3: Desarrollo Web Básico (40 puntos)
+# Debido a que en el documento no especifica lenguaje, usé Python.
+
 from flask import Flask, request, redirect, render_template_string
 import json
 import os
